@@ -61,7 +61,7 @@ int main() {
 
         case 4:
 
-        // CODE FOR SOCLING CHOICE 4
+        // CODE FOR SOLVING CHOICE 4
 
         printf("Enter a number of your choice : ");
         int j,y,r,s=0;
