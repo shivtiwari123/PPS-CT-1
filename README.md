@@ -16,7 +16,7 @@ If any number from 1 to 5 is entered, the program executes the bloack of code as
 
 If any number except 1 to 5 is entered, the program tells the user to check their input and try again.
 
-The code is made in C language using the concepts of Input & Outpur, Flow control, Operators, Conditional statements and various kinds of Loops.
+The code is made in C language using the concepts of Input & Output, Flow control, Operators, Conditional statements and various kinds of Loops.
 
 Made by - Shiv Tiwari,
           RA2111030010011,
